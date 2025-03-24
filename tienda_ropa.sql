@@ -1,5 +1,5 @@
 
--- Crear la base de datos (si aún no existe)
+-- Crear la base de datos 
 CREATE DATABASE tienda_ropa;
 \c tienda_ropa;
 
