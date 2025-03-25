@@ -1,8 +1,3 @@
-
--- Crear la base de datos 
-CREATE DATABASE tienda_ropa;
-\c tienda_ropa;
-
 -- Tabla Categorías
 CREATE TABLE categorias (
     id_categoria SERIAL PRIMARY KEY,
